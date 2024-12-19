@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>
+        <div>변경이 감지되십니까?</div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
